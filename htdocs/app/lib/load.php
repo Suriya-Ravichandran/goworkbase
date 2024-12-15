@@ -19,7 +19,7 @@ class template{
             case 'call-for-paper.php':
                 return "Call for Paper";
             default:
-                return "IJPSA- INTERNATIONAL JOURNAL OF PHARMACEUTICAL SCIENCES AND APPLICATION"; // Default title for unspecified pages
+                return "GoWorkbase - Foundation for Employee Operations."; // Default title for unspecified pages
         }
     }
 
